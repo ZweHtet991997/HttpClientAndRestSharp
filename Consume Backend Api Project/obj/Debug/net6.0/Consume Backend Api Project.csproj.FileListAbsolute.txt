@@ -1,0 +1,40 @@
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\appsettings.Development.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\appsettings.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Consume Backend Api Project.exe
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Consume Backend Api Project.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Consume Backend Api Project.runtimeconfig.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Consume Backend Api Project.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Consume Backend Api Project.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\ShareEntities.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\ShareEntities.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.csproj.AssemblyReference.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.AssemblyInfoInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.AssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.csproj.CoreCompileInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.MvcApplicationPartsAssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets\msbuild.Consume Backend Api Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Consume Backend Api Project.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Consume Backend Api Project.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Consume Backend Api Project.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\scopedcss\bundle\Consume Backend Api Project.styles.css
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.csproj.CopyComplete
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\refint\Consume Backend Api Project.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\Consume Backend Api Project.genruntimeconfig.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\obj\Debug\net6.0\ref\Consume Backend Api Project.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\RestClient.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\RestSharp.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Consume Backend Api Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

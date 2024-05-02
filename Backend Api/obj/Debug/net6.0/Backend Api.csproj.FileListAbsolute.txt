@@ -1,0 +1,35 @@
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\appsettings.Development.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\appsettings.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Backend Api.exe
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Backend Api.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Backend Api.runtimeconfig.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Backend Api.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Backend Api.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\ShareEntities.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\ShareEntities.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.csproj.AssemblyReference.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.AssemblyInfoInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.AssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.csproj.CoreCompileInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.MvcApplicationPartsAssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets\msbuild.Backend Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Backend Api.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Backend Api.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Backend Api.props
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\scopedcss\bundle\Backend Api.styles.css
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.csproj.CopyComplete
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\refint\Backend Api.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\Backend Api.genruntimeconfig.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\obj\Debug\net6.0\ref\Backend Api.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\Backend Api\bin\Debug\net6.0\Newtonsoft.Json.dll

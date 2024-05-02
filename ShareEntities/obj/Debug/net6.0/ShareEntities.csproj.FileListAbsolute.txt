@@ -1,0 +1,12 @@
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\bin\Debug\net6.0\ShareEntities.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\bin\Debug\net6.0\ShareEntities.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\bin\Debug\net6.0\ShareEntities.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.csproj.AssemblyReference.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.AssemblyInfoInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.AssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.csproj.CoreCompileInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\refint\ShareEntities.dll
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ShareEntities.pdb
+C:\MyProjects\MyRepo\C#\DotNet\HttpClientAndRestSharp\ShareEntities\obj\Debug\net6.0\ref\ShareEntities.dll
